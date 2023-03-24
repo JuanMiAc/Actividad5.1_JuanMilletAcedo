@@ -1,0 +1,24 @@
+
+   - DNI: grgregr
+   - Nombre: grgrggrg
+   - Apellidos: sefe
+   - Apellidos: 
+   - Año de nacimiento: 18921
+   - Correo electrónico: 
+   - Password: null
+
+   - DNI: juan
+   - Nombre: gerher
+   - Apellidos: fgwergg
+   - Apellidos: 
+   - Año de nacimiento: 22222
+   - Correo electrónico: 
+   - Password: null
+
+   - DNI: Carlos 
+   - Nombre: Lopez
+   - Apellidos: 
+   - Apellidos: fagrgq
+   - Año de nacimiento: 3333
+   - Correo electrónico: 
+   - Password: null
